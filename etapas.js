@@ -27,9 +27,9 @@ let etapas = [
         candidatos: [
             {
                 numero: '99',
-                nome: 'Ciclano',
+                nome: 'Sicrano',
                 partido: 'ABC',
-                vice: 'Cic',
+                vice: 'Sic',
                 fotos: [
                     {url: '99.jpg', legenda: 'Prefeito', small: false},
                     {url: '99_2.jpg', legenda: 'Vice-Prefeito', small: true}
